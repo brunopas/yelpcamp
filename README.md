@@ -18,7 +18,7 @@
 
 
 ## 💻 Sobre
-O YelpCamp é uma aplicação em que os usuários podem criar e avaliar acampamentos (campgrounds). Para revisar ou criar um acampamento, você deve possuir uma conta de usuário.
+O YelpCamp é uma aplicação similar ao famoso Yelp, mas com foco exclusivo em acampamentos (campgrounds). É possível explorar os acampamentos, cadastrar novos acampamentos, adicionar e excluir avaliações, sendo que a maioria das funções necessitam de um cadastro / login.
 
 Projeto desenvolvido durante o **The Web Developer Bootcamp 2021** oferecido pelo [Colt Steele By Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
@@ -26,24 +26,32 @@ Projeto desenvolvido durante o **The Web Developer Bootcamp 2021** oferecido pel
 
 ## ⚙️ Funcionalidades
 
+- Mapas dos Acampamentos (Localização)
 - Login e Cadastro
-- Cadastrar Acampamentos
+- Cadastrar / Atualizar Acampamentos
 - Visualizar Acampamentos
-- Editar Acampamentos
 - Excluir Acampamentos
-- Avaliar Acampamentos (Excluir Avaliações)
+- Avaliar Acampamentos / Excluir Avaliações
 
 ---
 
 ## 🎨 Layout
 
+<p align="center"><b>Home</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.home.png" />
+<p align="center"><b>Cadastro</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/user.register.png" />
+<p align="center"><b>Login</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/user.login.png" />
+<p align="center"><b>Acampamentos</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.index.png" />
+<p align="center"><b>Novo Acampamento</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.new.png" />
+<p align="center"><b>Visualizar Acampamento (cadastrado por mim)</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.show-1.png" />
+<p align="center"><b>Visualizar Acampamento (cadastrado por outra pessoa)</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.show-2.png" />
+<p align="center"><b>Editar Acampamento</b></>
 <img alt="YelpCamp" title="#YelpCamp" src="./docs/screenshots/campground.edit.png" />
 
 ---
