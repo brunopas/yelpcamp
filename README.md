@@ -18,7 +18,7 @@
 
 
 ## 💻 Sobre
-O YelpCamp é um site onde os usuários podem criar e avaliar acampamentos (campgrounds). Para revisar ou criar um acampamento, você deve possuir uma conta de usuário.
+O YelpCamp é uma aplicação em que os usuários podem criar e avaliar acampamentos (campgrounds). Para revisar ou criar um acampamento, você deve possuir uma conta de usuário.
 
 Projeto desenvolvido durante o **The Web Developer Bootcamp 2021** oferecido pelo [Colt Steele By Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
