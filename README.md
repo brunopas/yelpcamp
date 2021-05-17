@@ -100,9 +100,6 @@ As seguintes tecnologias e ferramentas foram usadas na construção do projeto:
 - **[EJS](https://ejs.co/)**
 - **[MongoDB](https://www.mongodb.com/)**
 - **[Mongoose](https://mongoosejs.com/)**
-- **[Passport](https://www.npmjs.com/package/passport)**
-- **[Multer](https://www.npmjs.com/package/multer)**
-- **[Helmet](https://www.npmjs.com/package/helmet)**
 
 > Veja o arquivo [package.json](https://github.com/brunopas/jobscalc/blob/main/package.json)
 
